@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-gradingform_erubric",
+    "type": "moodle-gradingform",
+    "description": "Learning Analytics Enriched Rubric",
+    "extra": {
+        "installer-name": "gradingform",
+        "moodle": { "package_folder_name" : "gradingform" }
+    }
+}
